@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on [webpage]</title>
-    <link>https://vikketiirola.fi/posts/</link>
+    <link>https://www.vikketiirola.fi/posts/</link>
     <description>Recent content in Posts on [webpage]</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Jan 2021 17:01:49 +0200</lastBuildDate><atom:link href="https://vikketiirola.fi/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jan 2021 17:01:49 +0200</lastBuildDate><atom:link href="https://www.vikketiirola.fi/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder</title>
-      <link>https://vikketiirola.fi/posts/placeholder/</link>
+      <link>https://www.vikketiirola.fi/posts/placeholder/</link>
       <pubDate>Fri, 15 Jan 2021 17:01:49 +0200</pubDate>
       
-      <guid>https://vikketiirola.fi/posts/placeholder/</guid>
+      <guid>https://www.vikketiirola.fi/posts/placeholder/</guid>
       <description>Definition of placeholder  : a person or thing that occupies the position or place of another person or thing   The bill would empower the governor to appoint a placeholder to a vacant U.S. Senate seat, to serve through the next general election cycle. — John Sharp
   The result was that the legislation represented little more than a placeholder to put the budget before a conference committee&amp;hellip;  — Carl Ingram</description>
     </item>
